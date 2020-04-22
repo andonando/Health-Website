@@ -1,0 +1,40 @@
+
+.overlay {
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
+
+.img-1{
+    background-image: url('img/cacar air.jpg');
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.img-2{
+    background-image: url('img/bau kaki.jpg');
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.img-3{
+    background-image: url('img/keracunan makanan.jpg');
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.img-4{
+    background-image: url('img/olahraga.jpg');
+    Object-fit: cover; 
+    width: 50px; 
+    height: 50px;
+}
+
+.img-5{
+    background-image: url('img/toilet.jpg');
+    Object-fit: cover; 
+    width: 50 px; 
+    height: 50 px;
+}
