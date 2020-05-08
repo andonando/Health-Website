@@ -18,7 +18,7 @@
       <div class="container marketing">
         <div class="row">
           <div class="col-lg-5 text-center mx-auto">
-            <img class="rounded-circle" src="img/fernandoo.JPG" alt="Generic placeholder image" width="140" height="140">
+            <img class="rounded-circle" src="img/stickman.png" alt="Generic placeholder image" width="140" height="140">
             <h2>Fernando</h2>
             <p class="text-justify">Kesehatan merupakan hal yang utama yang harus dimiliki. Karena jika ingin melakukan aktivitas dan kondisi kita tidak fit  makan akan mengganggu kosentrasi kita. Untuk itu saya terinspirasi membuat web kesehatan yang bertujuan untuk mencegah berbagai penyakit. Semoga Bermanfaat.</p>
 						</div>
